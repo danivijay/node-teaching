@@ -1,0 +1,22 @@
+{
+  "name": "node.js",
+  "version": "0.0.0",
+  "description": "node demo",
+  "main": "demo_fileserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danivijay/node_demo.git"
+  },
+  "author": "dani vijay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danivijay/node_demo/issues"
+  },
+  "homepage": "https://github.com/danivijay/node_demo",
+  "dependencies": {
+    "upper-case": "1.1.3"
+  }
+}
